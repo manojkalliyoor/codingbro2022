@@ -46,8 +46,8 @@ p{
 }
 /* title image */
 .title-img{
-    /* position: relative;
-    bottom:100px; */
+    position: relative;
+    right:100px;
     transform:rotate(345deg)
 } 
 /* feature */
